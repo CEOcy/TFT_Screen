@@ -24,4 +24,17 @@ php artisan db:seed
 ```
 
 ### File Uploading
-When uploading listing files, they go to "storage/app/public". Create a symlink with the f
+When uploading listing files, they go to "storage/app/public". Create a symlink with the following command to make them publicly accessible.
+```
+php artisan storage:link
+```
+
+### Running The App
+Upload the files to your document root, Valet folder or run 
+```
+php artisan serve
+```
+
+## License
+
+The LaraGigs app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
