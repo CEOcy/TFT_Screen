@@ -222,4 +222,17 @@
                     "type": "custom"
                 },
                 {
-                
+                    "url": "https://www.patreon.com/phpdoctrine",
+                    "type": "patreon"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/doctrine%2Finflector",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-10-22T20:16:43+00:00"
+        },
+        {
+            "name": "doctrine/lexer",
+            "version": "1.2.3",
+            
