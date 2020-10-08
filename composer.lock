@@ -372,4 +372,13 @@
         {
             "name": "egulias/email-validator",
             "version": "3.1.2",
-      
+            "source": {
+                "type": "git",
+                "url": "https://github.com/egulias/EmailValidator.git",
+                "reference": "ee0db30118f661fb166bcffbf5d82032df484697"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/ee0db30118f661fb166bcffbf5d82032df484697",
+                "reference": "ee0db30118f661fb166bcffbf5d82032df484697",
+ 
