@@ -941,4 +941,18 @@
             "description": "php dev tools in your browser",
             "homepage": "https://underground.works/clockwork",
             "keywords": [
-                "Devtools"
+                "Devtools",
+                "debugging",
+                "laravel",
+                "logging",
+                "lumen",
+                "profiling",
+                "slim"
+            ],
+            "support": {
+                "issues": "https://github.com/itsgoingd/clockwork/issues",
+                "source": "https://github.com/itsgoingd/clockwork/tree/v5.1.6"
+            },
+            "funding": [
+                {
+                    "
