@@ -1011,4 +1011,13 @@
             },
             "provide": {
                 "psr/container-implementation": "1.1|2.0",
-            
+                "psr/simple-cache-implementation": "1.0|2.0|3.0"
+            },
+            "replace": {
+                "illuminate/auth": "self.version",
+                "illuminate/broadcasting": "self.version",
+                "illuminate/bus": "self.version",
+                "illuminate/cache": "self.version",
+                "illuminate/collections": "self.version",
+                "illuminate/conditionable": "self.version",
+                "illumin
