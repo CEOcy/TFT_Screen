@@ -978,4 +978,14 @@
             "require": {
                 "doctrine/inflector": "^2.0",
                 "dragonmantank/cron-expression": "^3.1",
-              
+                "egulias/email-validator": "^3.1",
+                "ext-mbstring": "*",
+                "ext-openssl": "*",
+                "fruitcake/php-cors": "^1.2",
+                "laravel/serializable-closure": "^1.0",
+                "league/commonmark": "^2.2",
+                "league/flysystem": "^3.0",
+                "monolog/monolog": "^2.0",
+                "nesbot/carbon": "^2.53.1",
+                "php": "^8.0.2",
+                "psr/container
