@@ -1145,4 +1145,15 @@
             "version": "v2.15.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/laravel/sanctu
+                "url": "https://github.com/laravel/sanctum.git",
+                "reference": "31fbe6f85aee080c4dc2f9b03dc6dd5d0ee72473"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/sanctum/zipball/31fbe6f85aee080c4dc2f9b03dc6dd5d0ee72473",
+                "reference": "31fbe6f85aee080c4dc2f9b03dc6dd5d0ee72473",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "illuminate/
