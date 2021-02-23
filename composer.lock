@@ -1193,4 +1193,18 @@
                     "email": "taylor@laravel.com"
                 }
             ],
-            "description": "Laravel Sanctum provides a featherweight authentication system 
+            "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
+            "keywords": [
+                "auth",
+                "laravel",
+                "sanctum"
+            ],
+            "support": {
+                "issues": "https://github.com/laravel/sanctum/issues",
+                "source": "https://github.com/laravel/sanctum"
+            },
+            "time": "2022-04-08T13:39:49+00:00"
+        },
+        {
+            "name": "laravel/serializable-closure",
+            "ver
