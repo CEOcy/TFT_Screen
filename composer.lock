@@ -1322,4 +1322,18 @@
             "description": "Powerful REPL for the Laravel framework.",
             "keywords": [
                 "REPL",
-                "Tin
+                "Tinker",
+                "laravel",
+                "psysh"
+            ],
+            "support": {
+                "issues": "https://github.com/laravel/tinker/issues",
+                "source": "https://github.com/laravel/tinker/tree/v2.7.2"
+            },
+            "time": "2022-03-23T12:38:24+00:00"
+        },
+        {
+            "name": "league/commonmark",
+            "version": "2.3.0",
+            "source": {
+                "typ
