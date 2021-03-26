@@ -1336,4 +1336,15 @@
             "name": "league/commonmark",
             "version": "2.3.0",
             "source": {
-                "typ
+                "type": "git",
+                "url": "https://github.com/thephpleague/commonmark.git",
+                "reference": "32a49eb2b38fe5e5c417ab748a45d0beaab97955"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/32a49eb2b38fe5e5c417ab748a45d0beaab97955",
+                "reference": "32a49eb2b38fe5e5c417ab748a45d0beaab97955",
+                "shasum": ""
+            },
+            "require": {
+          
