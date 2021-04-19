@@ -1530,4 +1530,14 @@
             },
             "dist": {
                 "type": "zip",
-     
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/29eb78cac0be0c22237c5e0f6f98234d97037d79",
+                "reference": "29eb78cac0be0c22237c5e0f6f98234d97037d79",
+                "shasum": ""
+            },
+            "require": {
+                "league/mime-type-detection": "^1.0.0",
+                "php": "^8.0.2"
+            },
+            "conflict": {
+                "aws/aws-sdk-php": "3.209.31 || 3.210.0",
+    
