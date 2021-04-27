@@ -1605,4 +1605,17 @@
                 },
                 {
                     "url": "https://tidelift.com/funding/github/packagist/league/flysystem",
-        
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2022-04-14T14:57:13+00:00"
+        },
+        {
+            "name": "league/mime-type-detection",
+            "version": "1.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thephpleague/mime-type-detection.git",
+                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd"
+            },
+            "dist": 
