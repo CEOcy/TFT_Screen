@@ -1618,4 +1618,15 @@
                 "url": "https://github.com/thephpleague/mime-type-detection.git",
                 "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd"
             },
-            "dist": 
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
+                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
+                "shasum": ""
+            },
+            "require": {
+                "ext-fileinfo": "*",
+                "php": "^7.2 || ^8.0"
+            },
+            "require-dev": {
+                "friendsofphp/
