@@ -1995,4 +1995,19 @@
                 "nette",
                 "paginator",
                 "password",
-         
+                "slugify",
+                "string",
+                "unicode",
+                "utf-8",
+                "utility",
+                "validation"
+            ],
+            "support": {
+                "issues": "https://github.com/nette/utils/issues",
+                "source": "https://github.com/nette/utils/tree/v3.2.7"
+            },
+            "time": "2022-01-24T11:29:14+00:00"
+        },
+        {
+            "name": "nikic/php-parser",
+            "version":
