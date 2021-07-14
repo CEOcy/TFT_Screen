@@ -2495,4 +2495,18 @@
                 "simple-cache"
             ],
             "support": {
-                "source": "https://github.com
+                "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
+            },
+            "time": "2021-10-29T13:26:27+00:00"
+        },
+        {
+            "name": "psy/psysh",
+            "version": "v0.11.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bobthecow/psysh.git",
+                "reference": "7f7da640d68b9c9fec819caae7c744a213df6514"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.githu
