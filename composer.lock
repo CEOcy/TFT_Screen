@@ -2563,4 +2563,17 @@
                     "homepage": "http://justinhileman.com"
                 }
             ],
-            "description": "An interactive shell f
+            "description": "An interactive shell for modern PHP.",
+            "homepage": "http://psysh.org",
+            "keywords": [
+                "REPL",
+                "console",
+                "interactive",
+                "shell"
+            ],
+            "support": {
+                "issues": "https://github.com/bobthecow/psysh/issues",
+                "source": "https://github.com/bobthecow/psysh/tree/v0.11.2"
+            },
+            "time": "2022-02-28T15:28:54+00:00"
+       
