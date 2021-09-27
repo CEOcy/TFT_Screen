@@ -2658,4 +2658,18 @@
                 "squizlabs/php_codesniffer": "^3.5",
                 "vimeo/psalm": "^4.4"
             },
-            "type": "
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ramsey\\Collection\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ben Ramsey",
+                    "email": "ben@benramsey.com",
+                    "homepage": "https://be
