@@ -2672,4 +2672,18 @@
                 {
                     "name": "Ben Ramsey",
                     "email": "ben@benramsey.com",
-                    "homepage": "https://be
+                    "homepage": "https://benramsey.com"
+                }
+            ],
+            "description": "A PHP library for representing and manipulating collections.",
+            "keywords": [
+                "array",
+                "collection",
+                "hash",
+                "map",
+                "queue",
+                "set"
+            ],
+            "support": {
+                "issues": "https://github.com/ramsey/collection/issues",
+                "source": "https://gith
