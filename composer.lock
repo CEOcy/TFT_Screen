@@ -2711,4 +2711,17 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/ramsey/uuid/zipball/8505afd4fea63b81a85d3b7b53ac3cb8dc347c28",
-    
+                "reference": "8505afd4fea63b81a85d3b7b53ac3cb8dc347c28",
+                "shasum": ""
+            },
+            "require": {
+                "brick/math": "^0.8 || ^0.9",
+                "ext-ctype": "*",
+                "ext-json": "*",
+                "php": "^8.0",
+                "ramsey/collection": "^1.0"
+            },
+            "replace": {
+                "rhumsaa/uuid": "self.version"
+            },
+ 
