@@ -2833,4 +2833,16 @@
                 "symfony/process": "^5.4|^6.0",
                 "symfony/var-dumper": "^5.4|^6.0"
             },
-            "su
+            "suggest": {
+                "psr/log": "For using the console logger",
+                "symfony/event-dispatcher": "",
+                "symfony/lock": "",
+                "symfony/process": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Console\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
