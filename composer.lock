@@ -2899,4 +2899,16 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/1955d595c12c111629cc814d3f2a2ff13580508a",
+                "reference": "1955d595c12c111629cc814d3f2a2ff13580508a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\CssSelector\\": ""
+                },
+    
