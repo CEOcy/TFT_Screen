@@ -3026,4 +3026,16 @@
             "version": "v6.0.7",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/error-hand
+                "url": "https://github.com/symfony/error-handler.git",
+                "reference": "e600c54e5b30555eecea3ffe4314e58f832e78ee"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/error-handler/zipball/e600c54e5b30555eecea3ffe4314e58f832e78ee",
+                "reference": "e600c54e5b30555eecea3ffe4314e58f832e78ee",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.2",
+                "psr/log": "^1|^2|^3",
+     
