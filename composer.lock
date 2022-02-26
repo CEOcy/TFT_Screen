@@ -3090,4 +3090,16 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "20
+            "time": "2022-03-18T16:21:55+00:00"
+        },
+        {
+            "name": "symfony/event-dispatcher",
+            "version": "v6.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/event-dispatcher.git",
+                "reference": "6472ea2dd415e925b90ca82be64b8bc6157f3934"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/
