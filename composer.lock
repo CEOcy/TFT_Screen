@@ -3319,4 +3319,14 @@
             "name": "symfony/http-foundation",
             "version": "v6.0.7",
             "source": {
-                "type": "git"
+                "type": "git",
+                "url": "https://github.com/symfony/http-foundation.git",
+                "reference": "c816b26f03b6902dba79b352c84a17f53d815f0d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/c816b26f03b6902dba79b352c84a17f53d815f0d",
+                "reference": "c816b26f03b6902dba79b352c84a17f53d815f0d",
+                "shasum": ""
+            },
+     
