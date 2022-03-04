@@ -3293,4 +3293,16 @@
                     "name": "Symfony Community",
                     "homepage": "https://symfony.com/contributors"
                 }
-       
+            ],
+            "description": "Finds files and directories via an intuitive fluent interface",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/finder/tree/v6.0.3"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                   
