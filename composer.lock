@@ -3341,4 +3341,19 @@
                 "symfony/mime": "^5.4|^6.0"
             },
             "suggest": {
-                "symfony/mime": "To use the file exten
+                "symfony/mime": "To use the file extension guesser"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\HttpFoundation\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "auth
