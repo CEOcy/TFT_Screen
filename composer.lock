@@ -3621,4 +3621,18 @@
                     "name": "Fabien Potencier",
                     "email": "fabien@symfony.com"
                 },
-           
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Allows manipulating MIME messages",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "mime",
+                "mime-type"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/mime/tree/v6.0.7"
+            },
+ 
