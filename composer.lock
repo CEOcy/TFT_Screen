@@ -4400,4 +4400,14 @@
                 "symfony/yaml": "^5.4|^6.0"
             },
             "suggest": {
-                "symfony/config": "For using the all-in-on
+                "symfony/config": "For using the all-in-one router or any loader",
+                "symfony/expression-language": "For using expression matching",
+                "symfony/http-foundation": "For using a Symfony Request object",
+                "symfony/yaml": "For using the YAML loader"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Routing\\": ""
+                },
+                "exclude-from-cla
