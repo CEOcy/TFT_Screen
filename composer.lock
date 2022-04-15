@@ -4690,4 +4690,14 @@
                 {
                     "name": "Fabien Potencier",
                     "email": "fabien@symfony.com"
-            
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Provides tools to internationalize your application",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/translation/tree/v6.0.7"
+            }
