@@ -4793,4 +4793,16 @@
                     "type": "tidelift"
                 }
             ],
-       
+            "time": "2022-01-02T09:55:41+00:00"
+        },
+        {
+            "name": "symfony/var-dumper",
+            "version": "v6.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/var-dumper.git",
+                "reference": "38358405ae948963c50a3aae3dfea598223ba15e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "
