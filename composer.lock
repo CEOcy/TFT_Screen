@@ -5056,4 +5056,17 @@
                 }
             ],
             "description": "Portable ASCII library - performance optimized (ascii) string functions for php.",
-            "homepage": "https://github.
+            "homepage": "https://github.com/voku/portable-ascii",
+            "keywords": [
+                "ascii",
+                "clean",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/voku/portable-ascii/issues",
+                "source": "https://github.com/voku/portable-ascii/tree/2.0.1"
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.me/moelleken",
+              
