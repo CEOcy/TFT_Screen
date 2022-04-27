@@ -5069,4 +5069,16 @@
             "funding": [
                 {
                     "url": "https://www.paypal.me/moelleken",
-              
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/voku",
+                    "type": "github"
+                },
+                {
+                    "url": "https://opencollective.com/portable-ascii",
+                    "type": "open_collective"
+                },
+                {
+                    "url": "https://www.patreon.com/voku",
+                    "type": "patre
