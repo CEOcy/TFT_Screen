@@ -5317,4 +5317,18 @@
             "autoload": {
                 "psr-4": {
                     "Faker\\": "src/Faker/"
-  
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "François Zaninotto"
+                }
+            ],
+            "description": "Faker is a PHP library that generates fake data for you.",
+            "keywords": [
+                "data",
+                
