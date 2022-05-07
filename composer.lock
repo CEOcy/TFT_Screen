@@ -5365,4 +5365,17 @@
             },
             "suggest": {
                 "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
-  
+                "whoops/soap": "Formats errors as SOAP responses"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.7-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Whoops\\": "src/Whoops/"
+                }
+            },
+            "notification-url": "https
