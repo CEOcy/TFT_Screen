@@ -5512,4 +5512,18 @@
                 }
             ],
             "description": "Docker files for running a basic Laravel application.",
-            "keywords":
+            "keywords": [
+                "docker",
+                "laravel"
+            ],
+            "support": {
+                "issues": "https://github.com/laravel/sail/issues",
+                "source": "https://github.com/laravel/sail"
+            },
+            "time": "2022-04-14T18:29:22+00:00"
+        },
+        {
+            "name": "mockery/mockery",
+            "version": "1.5.0",
+            "source": {
+                "typ
