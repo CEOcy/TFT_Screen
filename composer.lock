@@ -5575,4 +5575,19 @@
                 }
             ],
             "description": "Mockery is a simple yet flexible PHP mock object framework",
-            "homepage": "https://github.com/mo
+            "homepage": "https://github.com/mockery/mockery",
+            "keywords": [
+                "BDD",
+                "TDD",
+                "library",
+                "mock",
+                "mock objects",
+                "mockery",
+                "stub",
+                "test",
+                "test double",
+                "testing"
+            ],
+            "support": {
+                "issues": "https://github.com/mockery/mockery/issues",
+                "source": "https://github.com/mockery/mockery/tree
