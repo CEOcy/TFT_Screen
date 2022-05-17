@@ -5705,4 +5705,20 @@
                 {
                     "name": "Nuno Maduro",
                     "email": "enunomaduro@gmail.com"
-      
+                }
+            ],
+            "description": "Cli error handling for console/command-line PHP applications.",
+            "keywords": [
+                "artisan",
+                "cli",
+                "command-line",
+                "console",
+                "error",
+                "handling",
+                "laravel",
+                "laravel-zero",
+                "php",
+                "symfony"
+            ],
+            "support": {
+                "issues": "
