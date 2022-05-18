@@ -5748,4 +5748,14 @@
                 "url": "https://github.com/phar-io/manifest.git",
                 "reference": "97803eca37d319dfa7826cc2437fc020857acb53"
             },
-     
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phar-io/manifest/zipball/97803eca37d319dfa7826cc2437fc020857acb53",
+                "reference": "97803eca37d319dfa7826cc2437fc020857acb53",
+                "shasum": ""
+            },
+            "require": {
+                "ext-dom": "*",
+                "ext-phar": "*",
+                "ext-xmlwriter": "*",
+                "
