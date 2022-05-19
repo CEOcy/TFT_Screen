@@ -5775,4 +5775,17 @@
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
-  
+            ],
+            "authors": [
+                {
+                    "name": "Arne Blankerts",
+                    "email": "arne@blankerts.de",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Sebastian Heuer",
+                    "email": "sebastian@phpeople.de",
+                    "role": "Developer"
+                },
+                {
+                    "name
