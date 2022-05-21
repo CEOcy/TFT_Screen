@@ -5836,4 +5836,16 @@
                 {
                     "name": "Sebastian Heuer",
                     "email": "sebastian@phpeople.de",
-                    "role": "Developer
+                    "role": "Developer"
+                },
+                {
+                    "name": "Sebastian Bergmann",
+                    "email": "sebastian@phpunit.de",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Library for handling version information and constraints",
+            "support": {
+                "issues": "https://github.com/phar-io/version/issues",
+                "source": "https://github.com/phar-io/version/tree/3.2.1"
+ 
