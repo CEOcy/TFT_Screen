@@ -6083,4 +6083,12 @@
             "version": "9.2.15",
             "source": {
                 "type": "git",
-                "url"
+                "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
+                "reference": "2e9da11878c4202f97915c1cb4bb1ca318a63f5f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/2e9da11878c4202f97915c1cb4bb1ca318a63f5f",
+                "reference": "2e9da11878c4202f97915c1cb4bb1ca318a63f5f",
+                "shasum": ""
+            
