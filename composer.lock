@@ -6068,4 +6068,19 @@
                 "Double",
                 "Dummy",
                 "fake",
-                "mock"
+                "mock",
+                "spy",
+                "stub"
+            ],
+            "support": {
+                "issues": "https://github.com/phpspec/prophecy/issues",
+                "source": "https://github.com/phpspec/prophecy/tree/v1.15.0"
+            },
+            "time": "2021-12-08T12:19:24+00:00"
+        },
+        {
+            "name": "phpunit/php-code-coverage",
+            "version": "9.2.15",
+            "source": {
+                "type": "git",
+                "url"
