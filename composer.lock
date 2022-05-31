@@ -6144,4 +6144,15 @@
                 "xunit"
             ],
             "support": {
-                "
+                "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
+                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/9.2.15"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/sebastianbergmann",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-03-07T09:28:20+00:00"
+        },
+      
