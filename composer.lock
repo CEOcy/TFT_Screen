@@ -6390,4 +6390,17 @@
             },
             "funding": [
                 {
-                    "url": "https://g
+                    "url": "https://github.com/sebastianbergmann",
+                    "type": "github"
+                }
+            ],
+            "time": "2020-10-26T13:16:10+00:00"
+        },
+        {
+            "name": "phpunit/phpunit",
+            "version": "9.5.20",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "12bc8879fb65aef2138b26fc633cb1e3620cffba"
+           
