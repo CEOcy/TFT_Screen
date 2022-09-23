@@ -7594,4 +7594,13 @@
             "version": "1.2.7",
             "source": {
                 "type": "git",
-            
+                "url": "https://github.com/spatie/ignition.git",
+                "reference": "2f059cf42b48f7c522efbba1c05ad59fc2c1a3f2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/ignition/zipball/2f059cf42b48f7c522efbba1c05ad59fc2c1a3f2",
+                "reference": "2f059cf42b48f7c522efbba1c05ad59fc2c1a3f2",
+                "shasum": ""
+            },
+            "requ
