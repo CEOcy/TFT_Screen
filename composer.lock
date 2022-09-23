@@ -7578,4 +7578,20 @@
                 "spatie"
             ],
             "support": {
-                "issues": "https://github.com/spatie
+                "issues": "https://github.com/spatie/flare-client-php/issues",
+                "source": "https://github.com/spatie/flare-client-php/tree/1.1.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/spatie",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-03-11T13:21:28+00:00"
+        },
+        {
+            "name": "spatie/ignition",
+            "version": "1.2.7",
+            "source": {
+                "type": "git",
+            
