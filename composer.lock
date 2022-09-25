@@ -7653,4 +7653,19 @@
             },
             "funding": [
                 {
-                    "url": "https://github.com/spati
+                    "url": "https://github.com/spatie",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-03-29T08:48:34+00:00"
+        },
+        {
+            "name": "spatie/laravel-ignition",
+            "version": "1.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/laravel-ignition.git",
+                "reference": "924d1ae878874ad0bb49f63b69a9af759a34ee78"
+            },
+            "dist": {
+  
