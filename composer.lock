@@ -7792,4 +7792,22 @@
                 "source": "https://github.com/theseer/tokenizer/tree/1.2.1"
             },
             "funding": [
-       
+                {
+                    "url": "https://github.com/theseer",
+                    "type": "github"
+                }
+            ],
+            "time": "2021-07-28T10:34:58+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^8.0.2"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
