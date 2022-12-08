@@ -29,4 +29,8 @@ return new class extends Migration
      *
      * @return void
      */
-    publi
+    public function down()
+    {
+        Schema::dropIfExists('personal_access_tokens');
+    }
+};
