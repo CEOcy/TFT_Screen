@@ -24,4 +24,17 @@ return new class extends Migration
             $table->string('email');
             $table->string('website');
             $table->longText('description');
-            $table->timestamp
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('listings');
+    }
+};
