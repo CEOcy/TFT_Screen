@@ -39,4 +39,10 @@ class DatabaseSeeder extends Seeder
         // ]);
 
         // Listing::create([
-        //     'title' => 'Full-Stack Engineer'
+        //     'title' => 'Full-Stack Engineer',
+        //     'tags' => 'laravel, backend ,api',
+        //     'company' => 'Stark Industries',
+        //     'location' => 'New York, NY',
+        //     'email' => 'email2@email.com',
+        //     'website' => 'https://www.starkindustries.com',
+        //     'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam minima et illo reprehenderit quas possimus voluptas repudiandae cum expedita, eveni
