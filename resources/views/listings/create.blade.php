@@ -76,4 +76,16 @@
         <label for="logo" class="inline-block text-lg mb-2">
           Company Logo
         </label>
-        <input type="file" class="border border-gray-200 rou
+        <input type="file" class="border border-gray-200 rounded p-2 w-full" name="logo" />
+
+        @error('logo')
+        <p class="text-red-500 text-xs mt-1">{{$message}}</p>
+        @enderror
+      </div>
+
+      <div class="mb-6">
+        <label for="description" class="inline-block text-lg mb-2">
+          Job Description
+        </label>
+        <textarea class="border border-gray-200 rounded p-2 w-full" name="description" rows="10"
+          placeholder="Include tasks, requirements, salary, etc">{{old('
