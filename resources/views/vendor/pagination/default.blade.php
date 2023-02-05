@@ -36,4 +36,11 @@
                 <li>
                     <a href="{{ $paginator->nextPageUrl() }}" rel="next" aria-label="@lang('pagination.next')">&rsaquo;</a>
                 </li>
-           
+            @else
+                <li class="disabled" aria-disabled="true" aria-label="@lang('pagination.next')">
+                    <span aria-hidden="true">&rsaquo;</span>
+                </li>
+            @endif
+        </ul>
+    </nav>
+@endif
