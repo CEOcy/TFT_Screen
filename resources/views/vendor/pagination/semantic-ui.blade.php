@@ -30,4 +30,7 @@
         @if ($paginator->hasMorePages())
             <a class="icon item" href="{{ $paginator->nextPageUrl() }}" rel="next" aria-label="@lang('pagination.next')"> <i class="right chevron icon"></i> </a>
         @else
-            <a class="icon item disabled" aria-disabled="true" aria-label="@lang('pagination.next')"> <i class="ri
+            <a class="icon item disabled" aria-disabled="true" aria-label="@lang('pagination.next')"> <i class="right chevron icon"></i> </a>
+        @endif
+    </div>
+@endif
