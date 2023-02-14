@@ -20,4 +20,14 @@
                     @if ($page == $paginator->currentPage())
                         <a class="item active" href="{{ $url }}" aria-current="page">{{ $page }}</a>
                     @else
-                        <a class="item" href="{{ $url }}">{
+                        <a class="item" href="{{ $url }}">{{ $page }}</a>
+                    @endif
+                @endforeach
+            @endif
+        @endforeach
+
+        {{-- Next Page Link --}}
+        @if ($paginator->hasMorePages())
+            <a class="icon item" href="{{ $paginator->nextPageUrl() }}" rel="next" aria-label="@lang('pagination.next')"> <i class="right chevron icon"></i> </a>
+        @else
+            <a class="icon item disabled" aria-disabled="true" aria-label="@lang('pagination.next')"> <i class="ri
